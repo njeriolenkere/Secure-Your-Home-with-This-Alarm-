@@ -30,7 +30,7 @@ https://github.com/njeriolenkere/Secure-Your-Home-with-This-Alarm-/blob/main/pro
 
 
 ## Upgrade the security system
-Using Utrasonic sensor, you can upgrade the security system so that the system can scan for movement up to 300 cm, but only trigger the buzzer if an intruder is detected within 200 cm of your house. This is to avoid the system alarming you everytime something passes by eg just your neighbour walking by or an animal walking by.
+Using Utrasonic sensor, you can upgrade the security system so that the system can scan for movement up to 300 cm, but only trigger the buzzer if an intruder is detected within 200 cm of your house. This is to avoid the system alarming you everytime something passes by eg just your neighbour walking by or an animal walking by. To make this product a premium, you can lidar sensor, and a night vision camera and connect the feed to a server or via bluetooth.
 ![20250331_135854](https://github.com/user-attachments/assets/91f53858-6f6f-4722-9766-d7f48eaa502f)
 
 
