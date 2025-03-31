@@ -23,5 +23,5 @@ How to make Home Security Alarm using Arduino, pir motion sensor and passive buz
 ## Step 4: Upload and Run
 
 ## video
-Watch step by step tutorial here :point_down: [![Click to Watch the video](naw_digital-youtube.png)](https://youtu.be/OJyP_r0AuPA)
+Watch step by step tutorial here :point_down: [![Click to Watch the video](![Screenshot (1060)](https://github.com/user-attachments/assets/31dd5fda-08b1-468f-b839-f58630041508))](https://youtu.be/OJyP_r0AuPA)
 
