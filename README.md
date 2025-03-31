@@ -20,8 +20,17 @@ How to make Home Security Alarm using Arduino, pir motion sensor and passive buz
 
 
 ## Step 3: Write Your Code using Duck.ai
+#### code: 
 ## Step 4: Upload and Run
 
 ## video
-Watch step by step tutorial here :point_down: [![Click to Watch the video](![Screenshot (1060)](https://github.com/user-attachments/assets/31dd5fda-08b1-468f-b839-f58630041508))](https://youtu.be/OJyP_r0AuPA)
+Watch step by step tutorial here :point_down: [![Click to Watch the video](https://github.com/user-attachments/assets/31dd5fda-08b1-468f-b839-f58630041508)](https://youtu.be/OJyP_r0AuPA)
+
+
+## Upgrade the security system
+![20250331_135854](https://github.com/user-attachments/assets/91f53858-6f6f-4722-9766-d7f48eaa502f)
+Using Utrasonic system you can upgrade the security system so that it can calculate the distance of the intruder from house. This is to avoid the alarm always off at every movement sensed even if its just a passer by or animal walking by. The system to scan for movement up to 300 cm, but only trigger the buzzer if an object is detected within 200 cm.
+
+#### code:
+
 
