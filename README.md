@@ -20,7 +20,9 @@ How to make Home Security Alarm using Arduino, pir motion sensor and passive buz
 
 
 ## Step 3: Write Your Code using Duck.ai
-#### code:
+#### code: 
+https://github.com/njeriolenkere/Secure-Your-Home-with-This-Alarm-/blob/main/project4.ino
+
 ## Step 4: Upload and Run
 
 
@@ -33,5 +35,6 @@ Using Utrasonic system you can upgrade the security system so that it can calcul
 
 
 #### code:
+https://github.com/njeriolenkere/Secure-Your-Home-with-This-Alarm-/blob/main/project4_utra-upgrade.ino
 
 
