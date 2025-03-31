@@ -30,7 +30,7 @@ https://github.com/njeriolenkere/Secure-Your-Home-with-This-Alarm-/blob/main/pro
 
 
 ## Upgrade the security system
-Using Utrasonic system you can upgrade the security system so that it can calculate the distance of the intruder from house. This is to avoid the alarm always off at every movement sensed even if its just a passer by or animal walking by. The system to scan for movement up to 300 cm, but only trigger the buzzer if an object is detected within 200 cm.
+Using Utrasonic sensor, you can upgrade the security system so that the system can scan for movement up to 300 cm, but only trigger the buzzer if an intruder is detected within 200 cm of your house. This is to avoid the system alarming you everytime something passes by eg just your neighbour walking by or an animal walking by.
 ![20250331_135854](https://github.com/user-attachments/assets/91f53858-6f6f-4722-9766-d7f48eaa502f)
 
 
